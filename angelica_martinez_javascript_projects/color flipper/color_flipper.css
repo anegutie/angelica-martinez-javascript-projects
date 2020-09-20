@@ -1,0 +1,30 @@
+.navbar {
+    background-color:white;
+}
+.nav-link{
+    color:black;
+}
+.flip {
+    color:rgb(32, 169, 194);
+}
+
+.bround {
+    background-color:black;
+    border-radius: 5px;
+    font-size: 30px;
+    color:white;
+}
+.color {
+    color:rgb(32, 169, 194);
+}
+.click {
+    background-color: black;
+    color:white;
+}
+
+.click:hover {
+    color:rgb(32, 169, 194);
+}
+.midl{
+    margin-top:160px;
+}
